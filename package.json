@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Alptech",
+	"author": "Jane Doe",
+  "description": "A project that does something awesome",
+  "keywords": [ "begginer","freecodecamp", "api", "student" ],
+  "license": "MIT",
+  "version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
